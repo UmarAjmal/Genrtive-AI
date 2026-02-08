@@ -1,0 +1,4 @@
+HumanMessage(content="The customer is asking for a refund on their order (order number 12345)")
+AIMessage(content="The AI system acknowledges the refund request and provides confirmation that:
+The refund has been started
+Processing time will take 3-5 business days")
